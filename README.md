@@ -1,0 +1,1 @@
+I do not claim to be the creator or be in association with the creator of any of these extensions. This repo is simply to make it easier to install these extensions if you do not have access to another download link.
